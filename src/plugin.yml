@@ -1,0 +1,5 @@
+name: DisableVillagerProfessions
+version: 0.0.1
+author: SkyyWasTaken
+main: us.skyywastaken.disablevillagerprofessions.DisableVillagerProfessions
+api-version: 1.16

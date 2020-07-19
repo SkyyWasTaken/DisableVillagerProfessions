@@ -1,0 +1,16 @@
+allowedProfessions:
+  NONE: true
+  NITWIT: true
+  ARMORER: true
+  BUTCHER: true
+  CARTOGRAPHER: true
+  CLERIC: true
+  FARMER: true
+  FISHERMAN: true
+  FLETCHER: true
+  LEATHERWORKER: true
+  LIBRARIAN: true
+  MASON: true
+  SHEPHERD: true
+  TOOLSMITH: true
+  WEAPONSMITH: true
